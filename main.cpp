@@ -1,3 +1,5 @@
+//CODE FOR INTERPOLATION OF DATA 
+//IT ALSO DETERMINES BEHAVIOUR BEYOND ENDS OF ARRAY i.e : EXTRAPOLATION
 #include <iostream>
 #include <iomanip>
 #include <vector>
